@@ -5,11 +5,14 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2937835757560764" />
         <entry key="app/src/main/res/layout/create_account.xml" value="0.1322463768115942" />
-        <entry key="app/src/main/res/layout/create_workout.xml" value="0.1322463768115942" />
+        <entry key="app/src/main/res/layout/create_workout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dashbaord.xml" value="0.11956521739130435" />
         <entry key="app/src/main/res/layout/dashboard.xml" value="0.1322463768115942" />
-        <entry key="app/src/main/res/layout/login.xml" value="0.1265625" />
-        <entry key="app/src/main/res/layout/view_workout.xml" value="0.1322463768115942" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/view_workout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/viewexercises.xml" value="0.11956521739130435" />
         <entry key="app/src/main/res/layout/workout_information.xml" value="0.1322463768115942" />
+        <entry key="app/src/main/res/layout/workoutinfo.xml" value="0.11956521739130435" />
       </map>
     </option>
   </component>
